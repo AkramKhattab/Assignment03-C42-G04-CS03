@@ -202,7 +202,6 @@ namespace Demo
             #endregion
 
             #region 12 StringBuilder
-
             //// Example: Using StringBuilder for efficient string manipulation
             //StringBuilder sb = new StringBuilder();
             //sb.Append("Hello");
@@ -211,8 +210,6 @@ namespace Demo
             //sb.Append("!");
             //string result = sb.ToString();
             //Console.WriteLine(result);
-
-
             #endregion
 
 
